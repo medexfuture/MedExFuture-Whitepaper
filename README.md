@@ -200,9 +200,9 @@ Together, let’s build the future of health.
 
 ## Contact
 
-**Website:** [Coming Soon]  
+**Website:** (https://medexfuture.com/)  
 **GitHub:** [MedExFuture-Whitepaper](https://github.com/medexfuture/MedExFuture-Whitepaper)  
-**Contact Email:** hello@medexfuture.com  
+**Contact Email:** info@medexfuture.com  
 **Location:** Tallinn, Estonia
 
 ---
